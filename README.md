@@ -1,5 +1,5 @@
 # CSC840-Final
- Final Project for CSC840
+# Final Project for CSC840
 Setting up a Home VMware Environment Presenting Analysis Across Different Hardware Setups.
 
 General Information
