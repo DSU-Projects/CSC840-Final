@@ -1,10 +1,10 @@
-# Final Project README for CSC840
-
-## General Information
-Item 1 Author: Briant Becote
-Item 2 Date: 12/8/2019
-Item 3 Description: Setting up a Home VMware Environment Presenting Analysis Across Different Hardware Setups.
-
+# Final Project README for CSC840  
+  
+## General Information  
+Item 1 Author: Briant Becote  
+Item 2 Date: 12/8/2019  
+Item 3 Description: Setting up a Home VMware Environment Presenting Analysis Across Different Hardware Setups.  
+  
 ## Why You Should Care
 
 ## Three Main Ideas
