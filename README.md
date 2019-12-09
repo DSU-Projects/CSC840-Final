@@ -18,12 +18,14 @@ But isn’t it easier to use DSU’s IA Lab?  This project is designed to demons
 2. Different hardware setups will produce significantly different performance results.
 
 ## Future Direction
-
+This topic could be further explored by examining more hardware configurations and conducting additional performance analysis.  
 ## Stream of Topics
+Additional topics for consideration include:
 
+- Topic 1
+- Topic 2
+- Topic 3
 ## Additional Resources
-
-## Video Demonstration
 - Link 1
 - Link 2
 - Link 3
