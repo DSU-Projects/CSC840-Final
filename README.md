@@ -1,4 +1,4 @@
-# Final Project README for CSC840  
+# Final Project CSC840 README
   
 ## General Information  
 - Author: Briant Becote  
