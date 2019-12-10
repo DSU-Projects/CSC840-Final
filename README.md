@@ -27,7 +27,7 @@ Additional topics for consideration include:
 - Topic 3
 ## Additional Resources
 - [OWASP Benchmark](https://www.owasp.org/index.php/Benchmark) The OWASP Benchmark for Security Automation (OWASP Benchmark) is a free and open test suite designed to evaluate the speed, coverage, and accuracy of automated software vulnerability detection tools and services
-- Link 2
+- [DSU Software Webstore](https://dsu.onthehub.com/) OnTheHub provides students, faculty and staff with discounted and free academic software.  Here, students can get the latest applications and programs from organizations like Microsoft, Adobe, and VMware for up to 90% off or even free. 
 - Link 3
 - Link 4
 
