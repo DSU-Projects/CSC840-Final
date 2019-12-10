@@ -26,8 +26,9 @@ Additional topics for consideration include:
 - Topic 2
 - Topic 3
 ## Additional Resources
-- [OWASP Benchmark](https://www.owasp.org/index.php/Benchmark) The OWASP Benchmark for Security Automation (OWASP Benchmark) is a free and open test suite designed to evaluate the speed, coverage, and accuracy of automated software vulnerability detection tools and services
+- [VMWare Workstation Documentation](https://docs.vmware.com/en/VMware-Workstation-Pro/index.html) With VMware Workstation Pro, you can run multiple operating systems simultaneously on the same PC, create powerful virtual machines to run the most demanding applications, and create restricted virtual machines that can expire.
 - [DSU Software Webstore](https://dsu.onthehub.com/) OnTheHub provides students, faculty and staff with discounted and free academic software.  Here, students can get the latest applications and programs from organizations like Microsoft, Adobe, and VMware for up to 90% off or even free. 
+- [OWASP Benchmark](https://www.owasp.org/index.php/Benchmark) The OWASP Benchmark for Security Automation (OWASP Benchmark) is a free and open test suite designed to evaluate the speed, coverage, and accuracy of automated software vulnerability detection tools and services
 - [OWASP Zed Attack Proxy Project](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) The OWASP Zed Attack Proxy (ZAP) is one of the world’s most popular free security tools and is actively maintained by hundreds of international volunteers*. It can help you automatically find security vulnerabilities in your web applications while you are developing and testing your applications. Its also a great tool for experienced pentesters to use for manual security testing.
-- Link 4
+
 
