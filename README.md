@@ -33,5 +33,20 @@ Additional topics for consideration include:
 - [OWASP Zed Attack Proxy Project](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) The OWASP Zed Attack Proxy (ZAP) is one of the world’s most popular free security tools and is actively maintained by hundreds of international volunteers*. It can help you automatically find security vulnerabilities in your web applications while you are developing and testing your applications. Its also a great tool for experienced pentesters to use for manual security testing.
 
 ## Hardware Configurations
-### Ryzen 3900Z AMD CPU
+#### Ryzen Desktop 2019
+1. Ryzen 3900Z AMD CPU
+2. 32GB DDR4 RAM
+3. 2TB NVMe M.2 SSD Drive
+4. NVIDIA 2080 Super Video Card
 
+#### Intel Desktop 2015
+1. Intel chip 
+2. 16GB DDR4 RAM 
+3. Hardrive
+4. NVIDIA XXX Video Card
+
+#### MSI Gaming Laptop 2014
+1. Intel chip 
+2. 16GB DDR4 RAM 
+3. Hardrive
+4. NVIDIA XXX Video Card
