@@ -3,7 +3,7 @@
 ## General Information  
 - Author: Briant Becote  
 - Date: 12/8/2019  
-- Description: Setting up a Home VMware Environment Presenting Analysis Across Different Hardware Setups.  
+- Description: Setting up a Home VMware Lab Presenting Analysis Across Different Hardware Setups.  
   
 ## Why You Should Care
 As Patrick Stump keenly observed, “Speed is absolutely key to creativity. The more time it takes to create something, the less likely you are to create something.”  Although the DSU IA Lab provides students a platform for learning and exploring via virtual machines, interfacing with the online tool is often slow.  Obtaining access to the internet is sometimes challenging due to the school’s firewall and if DSU’s network is down, then students may not be able to conduct their research at all.  
@@ -26,9 +26,12 @@ Additional topics for consideration include:
 - Topic 2
 - Topic 3
 ## Additional Resources
+- [Briant Becote CSC840 Final](https://github.com/DSU-Projects/CSC840-Final) Link to the github page this README is hosted on.
 - [VMWare Workstation Documentation](https://docs.vmware.com/en/VMware-Workstation-Pro/index.html) With VMware Workstation Pro, you can run multiple operating systems simultaneously on the same PC, create powerful virtual machines to run the most demanding applications, and create restricted virtual machines that can expire.
 - [DSU Software Webstore](https://dsu.onthehub.com/) OnTheHub provides students, faculty and staff with discounted and free academic software.  Here, students can get the latest applications and programs from organizations like Microsoft, Adobe, and VMware for up to 90% off or even free. 
-- [OWASP Benchmark](https://www.owasp.org/index.php/Benchmark) The OWASP Benchmark for Security Automation (OWASP Benchmark) is a free and open test suite designed to evaluate the speed, coverage, and accuracy of automated software vulnerability detection tools and services
+- [Blender Benchmark](https://www.blender.org/news/introducing-blender-benchmark/) A platform to collect and display the results of hardware and software performance tests. With this benchmark we aim at an optimal comparison between system hardware and installations, and to assist developers to track performance during Blender development.The benchmark consists of a downloadable package which runs Blender and renders on several production files.
 - [OWASP Zed Attack Proxy Project](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) The OWASP Zed Attack Proxy (ZAP) is one of the world’s most popular free security tools and is actively maintained by hundreds of international volunteers*. It can help you automatically find security vulnerabilities in your web applications while you are developing and testing your applications. Its also a great tool for experienced pentesters to use for manual security testing.
 
+## Hardware Configurations
+### Ryzen 3900Z AMD CPU
 
