@@ -18,19 +18,15 @@ But isn’t it easier to use DSU’s IA Lab?  This project is designed to demons
 2. Different hardware setups will produce significantly different performance results.
 
 ## Future Direction
-This topic could be further explored by examining more hardware configurations and conducting additional performance analysis.  
-## Stream of Topics
-Additional topics for consideration include:
+This topic could be further explored by examining more hardware configurations and determining a true baseline for practical virtual machine use.
 
-- Topic 1
-- Topic 2
-- Topic 3
 ## Additional Resources
-- [Briant Becote CSC840 Final](https://github.com/DSU-Projects/CSC840-Final) Link to the github page this README is hosted on.
+- [Briant Becote CSC840 Final Video](https://youtu.be/q_f4GERLS9w) Link to the youtube video.
 - [VMWare Workstation Documentation](https://docs.vmware.com/en/VMware-Workstation-Pro/index.html) With VMware Workstation Pro, you can run multiple operating systems simultaneously on the same PC, create powerful virtual machines to run the most demanding applications, and create restricted virtual machines that can expire.
 - [DSU Software Webstore](https://dsu.onthehub.com/) OnTheHub provides students, faculty and staff with discounted and free academic software.  Here, students can get the latest applications and programs from organizations like Microsoft, Adobe, and VMware for up to 90% off or even free. 
-- [Blender Benchmark](https://www.blender.org/news/introducing-blender-benchmark/) A platform to collect and display the results of hardware and software performance tests. With this benchmark we aim at an optimal comparison between system hardware and installations, and to assist developers to track performance during Blender development.The benchmark consists of a downloadable package which runs Blender and renders on several production files.
-- [OWASP Zed Attack Proxy Project](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) The OWASP Zed Attack Proxy (ZAP) is one of the world’s most popular free security tools and is actively maintained by hundreds of international volunteers*. It can help you automatically find security vulnerabilities in your web applications while you are developing and testing your applications. Its also a great tool for experienced pentesters to use for manual security testing.
+- [Geekbench 5](https://www.geekbench.com/) Geekbench 5 is a cross-platform benchmark that measures your system's performance with the press of a button. How will your mobile device or desktop computer perform when push comes to crunch? How will it compare to the newest devices on the market? Find out today with Geekbench 5
+- [Geekbench VMware Results] (https://browser.geekbench.com/v5/cpu/search?page=2&q=vmware) Displays 2,055 results from VMWare run benchmarks.  Across a sample size of 50 benchmarks we observed a median score of 837 for a single core.  The lowest single core submission was 484, over 100 points higher than DSU IA lab's benchmark of 353.
+- [Pest Studio](https://www.winitor.com/) The goal of pestudio is to spot suspicious artifacts within executable files in order to ease and accelerate Malware Initial Assessment and is used by Computer Emergency Response Teams and Labs worldwide.
 
 ## Hardware Configurations
 #### Ryzen Desktop 2019
@@ -39,14 +35,17 @@ Additional topics for consideration include:
 3. 2TB NVMe M.2 SSD Drive
 4. NVIDIA 2080 Super Video Card
 
-#### Intel Desktop 2015
-1. Intel chip 
+#### MSI Gaming Laptop 2015
+1. Intel chip I7
 2. 16GB DDR4 RAM 
-3. Hardrive
-4. NVIDIA XXX Video Card
+3. 1TB SSD Hardrive
+4. Integrated laptop video card.
 
-#### MSI Gaming Laptop 2014
-1. Intel chip 
+#### Intel Desktop 2015
+1. Intel chip I7 
 2. 16GB DDR4 RAM 
-3. Hardrive
-4. NVIDIA XXX Video Card
+3. 2TB SATA 7200 Hardrive
+4. NVIDIA 780 GTX Video Card
+
+
+
